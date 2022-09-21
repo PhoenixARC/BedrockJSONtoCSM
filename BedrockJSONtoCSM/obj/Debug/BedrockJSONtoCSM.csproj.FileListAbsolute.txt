@@ -1,0 +1,12 @@
+C:\Users\phoen\source\repos\BedrockJSONtoCSM\BedrockJSONtoCSM\bin\Debug\BedrockJSONtoCSM.exe.config
+C:\Users\phoen\source\repos\BedrockJSONtoCSM\BedrockJSONtoCSM\bin\Debug\BedrockJSONtoCSM.exe
+C:\Users\phoen\source\repos\BedrockJSONtoCSM\BedrockJSONtoCSM\bin\Debug\BedrockJSONtoCSM.pdb
+C:\Users\phoen\source\repos\BedrockJSONtoCSM\BedrockJSONtoCSM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\phoen\source\repos\BedrockJSONtoCSM\BedrockJSONtoCSM\obj\Debug\BedrockJSONtoCSM.csproj.AssemblyReference.cache
+C:\Users\phoen\source\repos\BedrockJSONtoCSM\BedrockJSONtoCSM\obj\Debug\BedrockJSONtoCSM.csproj.SuggestedBindingRedirects.cache
+C:\Users\phoen\source\repos\BedrockJSONtoCSM\BedrockJSONtoCSM\obj\Debug\BedrockJSONtoCSM.csproj.CoreCompileInputs.cache
+C:\Users\phoen\source\repos\BedrockJSONtoCSM\BedrockJSONtoCSM\obj\Debug\BedrockJSONtoCSM.csproj.CopyComplete
+C:\Users\phoen\source\repos\BedrockJSONtoCSM\BedrockJSONtoCSM\obj\Debug\BedrockJSONtoCSM.exe
+C:\Users\phoen\source\repos\BedrockJSONtoCSM\BedrockJSONtoCSM\obj\Debug\BedrockJSONtoCSM.pdb
+C:\Users\phoen\source\repos\BedrockJSONtoCSM\BedrockJSONtoCSM\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\phoen\source\repos\BedrockJSONtoCSM\BedrockJSONtoCSM\obj\Debug\BedrockJSONtoCSM.csproj.Fody.CopyLocal.cache
